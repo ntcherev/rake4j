@@ -1,8 +1,8 @@
 package rake4j.core;
 
-import io.deepreader.java.commons.util.Displayer;
-import io.deepreader.java.commons.util.IOHandler;
-import io.deepreader.java.commons.util.Sorter;
+import rake4j.core.util.Displayer;
+import rake4j.core.util.IOHandler;
+import rake4j.core.util.Sorter;
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang3.tuple.ImmutablePair;
 import org.apache.commons.lang3.tuple.Pair;

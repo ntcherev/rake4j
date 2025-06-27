@@ -1,6 +1,6 @@
 package rake4j.core.index;
 
-import io.deepreader.java.commons.util.Displayer;
+import rake4j.core.util.Displayer;
 
 import java.io.Serializable;
 

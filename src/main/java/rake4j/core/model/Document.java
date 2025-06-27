@@ -20,7 +20,7 @@ package rake4j.core.model;
  */
 
 
-import io.deepreader.java.commons.util.Displayer;
+import rake4j.core.util.Displayer;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.IOUtils;
 import org.slf4j.Logger;
@@ -70,7 +70,6 @@ public class Document {
             out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(path), "UTF-8"));
             out.write(theString);
             out.close();
-//            System.out.println("");
         } catch (FileNotFoundException ex) {
             logger.error("Error converting the file to utf8", ex);
         } catch (IOException ex) {
