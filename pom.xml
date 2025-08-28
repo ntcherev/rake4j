@@ -2,10 +2,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <artifactId>aq</artifactId>
-        <groupId>aq</groupId>
+        <groupId>com.mai</groupId>
+        <artifactId>metis-app</artifactId>
         <version>1.0</version>
-    </parent>
+    </parent>g
     <artifactId>rake4j</artifactId>
     <version>1.0</version>
     <name>rake4j</name>
