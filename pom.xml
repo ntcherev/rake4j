@@ -5,7 +5,7 @@
         <groupId>com.mai</groupId>
         <artifactId>metis-app</artifactId>
         <version>1.0</version>
-    </parent>g
+    </parent>
     <artifactId>rake4j</artifactId>
     <version>1.0</version>
     <name>rake4j</name>
